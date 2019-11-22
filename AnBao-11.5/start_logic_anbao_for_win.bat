@@ -1,0 +1,2 @@
+php Applications\AnBao\start_gameworker.php
+pause

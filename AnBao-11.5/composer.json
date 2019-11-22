@@ -1,0 +1,5 @@
+{
+    "require": {
+        "sebastian/diff": "^1.4"
+    }
+}
